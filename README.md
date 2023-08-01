@@ -89,19 +89,19 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <img class="img-responsive" src="images/backpack.jpg" width="200">
+      <img class="img-responsive" src="backpack.jpg" width="200">
       <h3 style="text-align: center; color:#E9692C;"><a  href="/root/shop.html">hiking gear</a></h3>
       <p>A hiking we will go with the latest packs, coolers, boots, and so much more.</p>
       <p>All the brands you love at a realistic and reasonable price.</p>
     </div>
     <div class="col-sm-4">
-      <img  class="img-responsive" src="images/kayaks.jpg" width="225">
+      <img  class="img-responsive" src="kayaks.jpg" width="225">
       <h3 style="text-align: center; color:#E9692C;" href="shop.html">water must haves</h3>
       <p>A kayaking we will go with the most resistant and durable of water accessories.</p>
       <p>The choices are endless from floating down the river to high intensitiy tubing.</p>
     </div>
     <div class="col-sm-4">
-    <img class="img-responsive" src="images/tent.jpg" width="225" >
+    <img class="img-responsive" src="tent.jpg" width="225" >
       <h3 style="text-align: center; color:#E9692C;" href="/root/shop.html">camping essentials</h3>        
       <p>A camping we will go with all our tents and supplies.</p>
       <p>Whether you like glamping for roughing it like the old days, we have you covered with tents and accessories. </p>
