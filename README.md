@@ -64,16 +64,16 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span> 
         </button>
-        <a class="navbar-brand" href="/root/index.html"><img src="images/acadialogo-main copy.jpg" width="50"> </img></a>
+        <a class="navbar-brand" href="/README.md"><img src="acadialogo-main copy.jpg" width="50"> </img></a>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="/root/index.html">Home</a></li>
-          <li><a href="/root/about.html">About</a></li>
-          <li><a href="/root/shop.html">Shop</a></li> 
+          <li class="active"><a href="/README.md">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="shop.html">Shop</a></li> 
         </ul>
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/root/contact.html"> Contact</a></li>
+          <li><a href="contact.html"> Contact</a></li>
         </ul>
       </div>
     </div>
